@@ -25,6 +25,8 @@ The datasets contains the following fields.
   14. **Vin VDS code :** The vehicle descriptor section is derived from VIN information. Letters and numbers in the VDS provide information about the vehicle model, engine type, body style, and so forth
   15. **Region :** The region where the car is being sold.
   16. **State :** State where the car is sold.
+  17. **Odometer :** Distance traveled by a vehicle in miles.
+  18. **Price :** Target variable, Selling price for the used car.
 
 All major US car brands are part of the training and test sets. These include famous brands such as Toyota, Honda, Nissan, Chevrolet, Chrysler, Ford, BMW, and Mercedes.
 
