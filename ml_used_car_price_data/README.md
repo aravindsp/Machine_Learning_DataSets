@@ -21,3 +21,6 @@ After cleaning and enrichment, 140,000 records were selected for training and 35
 * **Region :** The region where the car is being sold.
 * **State :** State where the car is sold.
 
+All major US car brands are part of the training and test sets. These include famous brands such as Toyota, Honda, Nissan, Chevrolet, Chrysler, Ford, BMW, and Mercedes.
+
+<img width="1177" alt="image" src="https://user-images.githubusercontent.com/13083748/210287967-cceba4b1-6049-421e-b548-490e4bb14b36.png">
