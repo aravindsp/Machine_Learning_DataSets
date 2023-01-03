@@ -1,3 +1,3 @@
-# Machine_Learning_DataSets
+# Machine Learning DataSets
 
 Collections of datasets for Machine learning.
