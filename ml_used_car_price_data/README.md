@@ -31,3 +31,10 @@ The datasets contains the following fields.
 All major US car brands are part of the training and test sets. These include famous brands such as Toyota, Honda, Nissan, Chevrolet, Chrysler, Ford, BMW, and Mercedes.
 
 <img width="1177" alt="image" src="https://user-images.githubusercontent.com/13083748/210287967-cceba4b1-6049-421e-b548-490e4bb14b36.png">
+
+
+## Original Dataset
+
+Kaggle Dataset - https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
+
+This data is scraped every few months from Craigslist.
